@@ -1,5 +1,4 @@
 # vityarthi-python-project
-this is a python project which is based on pdfs.It is a pdf merger which merges any pdf. 
 Currency Converter
 A simple and interactive command-line currency converter that converts between US Dollars (USD) and Indian Rupees (INR).
 Features
